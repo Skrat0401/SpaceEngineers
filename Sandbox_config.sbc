@@ -7,10 +7,10 @@
     <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
-    <OnlineMode>FRIENDS</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>6</MaxPlayers>
     <MaxFloatingObjects>100</MaxFloatingObjects>
-    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxBackupSaves>11</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>321100</TotalPCU>
@@ -113,6 +113,7 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -123,7 +124,7 @@
     <AdjustableMaxVehicleSpeed>true</AdjustableMaxVehicleSpeed>
     <EnableMatchComponent>false</EnableMatchComponent>
     <PreMatchDuration>0</PreMatchDuration>
-    <MatchDuration>0</MatchDuration>
+    <MatchDuration>6</MatchDuration>
     <PostMatchDuration>0</PostMatchDuration>
     <EnableFriendlyFire>true</EnableFriendlyFire>
     <EnableTeamBalancing>false</EnableTeamBalancing>
@@ -200,19 +201,7 @@
       <PublishedFileId>1581994759</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
-      <Name>806331071.sbm</Name>
-      <PublishedFileId>806331071</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="RivalAI">
-      <Name>2043543925.sbm</Name>
-      <PublishedFileId>2043543925</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-05-25T12:31:28.9885669+02:00</LastSaveTime>
+  <LastSaveTime>2021-05-26T00:14:10.3403164+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
