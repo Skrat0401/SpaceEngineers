@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
-    <OnlineMode>FRIENDS</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>6</MaxPlayers>
     <MaxFloatingObjects>100</MaxFloatingObjects>
     <MaxBackupSaves>11</MaxBackupSaves>
@@ -214,5 +214,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-06-03T00:45:42.5825+02:00</LastSaveTime>
+  <LastSaveTime>2021-06-03T11:48:19.2670527+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
