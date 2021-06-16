@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
+    <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>6</MaxPlayers>
     <MaxFloatingObjects>100</MaxFloatingObjects>
     <MaxBackupSaves>11</MaxBackupSaves>
@@ -135,6 +135,21 @@
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Sci Fi Button Images">
+      <Name>2324191331.sbm</Name>
+      <PublishedFileId>2324191331</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Interface Block">
+      <Name>2433117767.sbm</Name>
+      <PublishedFileId>2433117767</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Autofill Bottles">
+      <Name>2308085590.sbm</Name>
+      <PublishedFileId>2308085590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Reavers: Terror of the Verse">
       <Name>525460808.sbm</Name>
       <PublishedFileId>525460808</PublishedFileId>
@@ -214,5 +229,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-06-16T01:27:27.469189+02:00</LastSaveTime>
+  <LastSaveTime>2021-06-16T23:28:29.3731683+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
