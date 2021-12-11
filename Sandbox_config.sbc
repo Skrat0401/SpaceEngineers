@@ -13,7 +13,7 @@
     <MaxBackupSaves>11</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
-    <TotalPCU>321100</TotalPCU>
+    <TotalPCU>100000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
@@ -155,7 +155,7 @@
       <PublishedFileId>525460808</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 1.7(12)">
+    <ModItem FriendlyName="WeaponCore - 2.0(26)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -190,7 +190,7 @@
       <PublishedFileId>2016817336</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Modular Encounters Spawner">
+    <ModItem FriendlyName="Modular Encounters Systems">
       <Name>1521905890.sbm</Name>
       <PublishedFileId>1521905890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -221,7 +221,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="RivalAI">
+    <ModItem FriendlyName="[Obsolete] RivalAI">
       <Name>2043543925.sbm</Name>
       <PublishedFileId>2043543925</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -229,5 +229,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-07-16T12:57:42.0289532+02:00</LastSaveTime>
+  <LastSaveTime>2021-12-11T13:32:22.4392522+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
