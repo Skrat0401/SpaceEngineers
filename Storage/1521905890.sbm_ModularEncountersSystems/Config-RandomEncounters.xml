@@ -50,5 +50,5 @@
   <SpawnAttempts>10</SpawnAttempts>
   <UseMaxSpawnGroupFrequency>false</UseMaxSpawnGroupFrequency>
   <MaxSpawnGroupFrequency>5</MaxSpawnGroupFrequency>
-  <DespawnDistanceFromPlayer>1000</DespawnDistanceFromPlayer>
+  <DespawnDistanceFromPlayer>4000</DespawnDistanceFromPlayer>
 </ConfigRandomEncounters>
