@@ -135,6 +135,31 @@
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Easy NPC Takeovers">
+      <Name>1172408535.sbm</Name>
+      <PublishedFileId>1172408535</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Robot Raider Pods">
+      <Name>2598691307.sbm</Name>
+      <PublishedFileId>2598691307</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Bot_spawner">
+      <Name>2336089504.sbm</Name>
+      <PublishedFileId>2336089504</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AiEnabled [Beta]">
+      <Name>2596208372.sbm</Name>
+      <PublishedFileId>2596208372</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Sci Fi Button Images">
       <Name>2324191331.sbm</Name>
       <PublishedFileId>2324191331</PublishedFileId>
@@ -214,18 +239,6 @@
       <Name>1581994759.sbm</Name>
       <PublishedFileId>1581994759</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
-      <Name>806331071.sbm</Name>
-      <PublishedFileId>806331071</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="[Obsolete] RivalAI">
-      <Name>2043543925.sbm</Name>
-      <PublishedFileId>2043543925</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
