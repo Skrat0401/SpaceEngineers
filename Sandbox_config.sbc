@@ -15,7 +15,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>100000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
-    <MaxFactionsCount>0</MaxFactionsCount>
+    <MaxFactionsCount>64</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
@@ -240,7 +240,13 @@
       <PublishedFileId>1581994759</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
+      <Name>806331071.sbm</Name>
+      <PublishedFileId>806331071</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-12-17T18:45:39.9939642+01:00</LastSaveTime>
+  <LastSaveTime>2021-12-17T21:17:36.4302427+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
