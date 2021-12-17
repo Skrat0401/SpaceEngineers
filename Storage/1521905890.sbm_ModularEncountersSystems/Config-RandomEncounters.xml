@@ -37,10 +37,10 @@
     <string>AnotherDefinitionIdHere</string>
   </DisableBlocksByDefinitionId>
   <ModVersion>2.1.26</ModVersion>
-  <EnableSpawns>true</EnableSpawns>
+  <EnableSpawns>false</EnableSpawns>
   <PlayerSpawnCooldown>300</PlayerSpawnCooldown>
   <SpawnTimerTrigger>60</SpawnTimerTrigger>
-  <PlayerTravelDistance>15000</PlayerTravelDistance>
+  <PlayerTravelDistance>65000</PlayerTravelDistance>
   <MaxShipsPerArea>10</MaxShipsPerArea>
   <AreaSize>25000</AreaSize>
   <MinSpawnDistanceFromPlayer>8000</MinSpawnDistanceFromPlayer>
