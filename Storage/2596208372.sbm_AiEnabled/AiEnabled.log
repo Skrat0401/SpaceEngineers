@@ -1,9 +1,4 @@
-[22:46:36.040] [T1] [DS=False] DEBUG | Log Started (v0.7b)
-[22:46:36.057] [T1] [DS=False] DEBUG | Faction cleanup: Removing 100 members from Space Pirates
-[22:46:46.540] [T1] [DS=False] DEBUG | AiEnabled.Graphics.CommandMenu: Registered Successfully = True
-[22:49:53.154] [T1] [DS=False] WARNING | AiSession.OnEntityRemove: Control bot removed, but did not find its control info in the dictionary!
-[22:49:53.154] [T1] [DS=False] WARNING | AiSession.OnEntityRemove: Control bot removed, but did not find its control info in the dictionary!
-[22:49:53.154] [T1] [DS=False] WARNING | AiSession.OnEntityRemove: Control bot removed, but did not find its control info in the dictionary!
-[22:49:53.205] [T1] [DS=False] WARNING | AiSession.OnEntityRemove: Control bot removed, but did not find its control info in the dictionary!
-[22:49:53.205] [T1] [DS=False] WARNING | AiSession.OnEntityRemove: Control bot removed, but did not find its control info in the dictionary!
-[00:53:53.845] [T1] [DS=False] DEBUG | AiSession: Unloading mod data. Registered = True
+[13:37:08.941] [T1] [DS=False] DEBUG | Log Started (v0.7b)
+[13:37:08.988] [T1] [DS=False] DEBUG | Faction cleanup: Removing 55 members from Space Pirates
+[13:37:16.333] [T1] [DS=False] DEBUG | AiEnabled.Graphics.CommandMenu: Registered Successfully = True
+[14:55:30.666] [T1] [DS=False] DEBUG | AiSession: Unloading mod data. Registered = True
