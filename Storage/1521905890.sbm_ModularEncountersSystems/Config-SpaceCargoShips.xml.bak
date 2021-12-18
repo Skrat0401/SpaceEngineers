@@ -37,7 +37,7 @@
     <string>AnotherDefinitionIdHere</string>
   </DisableBlocksByDefinitionId>
   <ModVersion>2.1.26</ModVersion>
-  <EnableSpawns>true</EnableSpawns>
+  <EnableSpawns>false</EnableSpawns>
   <FirstSpawnTime>300</FirstSpawnTime>
   <MinSpawnTime>780</MinSpawnTime>
   <MaxSpawnTime>1020</MaxSpawnTime>

@@ -135,6 +135,11 @@
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Reavers: Terror of the Verse">
+      <Name>525460808.sbm</Name>
+      <PublishedFileId>525460808</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Easy NPC Takeovers">
       <Name>1172408535.sbm</Name>
       <PublishedFileId>1172408535</PublishedFileId>
@@ -175,11 +180,6 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Reavers: Terror of the Verse">
-      <Name>525460808.sbm</Name>
-      <PublishedFileId>525460808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.0(31)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -193,11 +193,6 @@
     <ModItem FriendlyName="Orks: The Great WAAAGH!">
       <Name>1793333265.sbm</Name>
       <PublishedFileId>1793333265</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Wave Spawner (Space)">
-      <Name>1773965697.sbm</Name>
-      <PublishedFileId>1773965697</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Surface Occupation">
@@ -239,12 +234,6 @@
       <Name>1581994759.sbm</Name>
       <PublishedFileId>1581994759</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
-      <Name>806331071.sbm</Name>
-      <PublishedFileId>806331071</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
