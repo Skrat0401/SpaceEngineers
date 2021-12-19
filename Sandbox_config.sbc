@@ -135,11 +135,6 @@
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Reavers: Terror of the Verse">
-      <Name>525460808.sbm</Name>
-      <PublishedFileId>525460808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Easy NPC Takeovers">
       <Name>1172408535.sbm</Name>
       <PublishedFileId>1172408535</PublishedFileId>
@@ -243,5 +238,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-12-19T14:04:03.8558868+01:00</LastSaveTime>
+  <LastSaveTime>2021-12-19T18:49:23.3379269+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

@@ -1,4 +1,4 @@
-[12:41:48.580] [T1] [DS=False] DEBUG | Log Started (v0.7b)
-[12:41:48.611] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20 members from Space Pirates
-[12:42:01.298] [T1] [DS=False] DEBUG | AiEnabled.Graphics.CommandMenu: Registered Successfully = True
-[14:04:05.928] [T1] [DS=False] DEBUG | AiSession: Unloading mod data. Registered = True
+[18:49:09.462] [T1] [DS=False] DEBUG | Log Started (v0.7b)
+[18:49:09.491] [T1] [DS=False] DEBUG | Faction cleanup: Removing 100 members from Space Pirates
+[18:49:17.556] [T1] [DS=False] DEBUG | AiEnabled.Graphics.CommandMenu: Registered Successfully = True
+[18:49:25.754] [T1] [DS=False] DEBUG | AiSession: Unloading mod data. Registered = True
