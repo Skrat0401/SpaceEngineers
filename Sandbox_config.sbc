@@ -175,7 +175,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.1(0)">
+    <ModItem FriendlyName="WeaponCore - 2.1(1)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -220,11 +220,6 @@
       <PublishedFileId>888487354</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Corruption PvE Combat">
-      <Name>914369510.sbm</Name>
-      <PublishedFileId>914369510</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Armor Ramp Compendium">
       <Name>1581994759.sbm</Name>
       <PublishedFileId>1581994759</PublishedFileId>
@@ -238,5 +233,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-12-19T19:34:51.0659711+01:00</LastSaveTime>
+  <LastSaveTime>2021-12-20T21:04:23.2591471+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
