@@ -15,7 +15,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>100000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
-    <MaxFactionsCount>64</MaxFactionsCount>
+    <MaxFactionsCount>100</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
@@ -175,7 +175,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.1(5)">
+    <ModItem FriendlyName="WeaponCore - 2.1(8)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -233,5 +233,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-12-24T00:03:28.6771709+01:00</LastSaveTime>
+  <LastSaveTime>2021-12-24T10:34:06.6614536+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
