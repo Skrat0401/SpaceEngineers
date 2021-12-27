@@ -135,7 +135,7 @@
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Easy NPC Takeovers">
+    <ModItem FriendlyName="Easy NPC Takeovers [Retired]">
       <Name>1172408535.sbm</Name>
       <PublishedFileId>1172408535</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -175,7 +175,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.1(9)">
+    <ModItem FriendlyName="WeaponCore - 2.1(10)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -233,5 +233,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2021-12-26T22:49:34.1999204+01:00</LastSaveTime>
+  <LastSaveTime>2021-12-27T13:27:16.885447+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
