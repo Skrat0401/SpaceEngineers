@@ -10,6 +10,7 @@
     <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>6</MaxPlayers>
     <MaxFloatingObjects>100</MaxFloatingObjects>
+    <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>11</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
@@ -175,7 +176,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(2)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(3.2)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -233,5 +234,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-01-30T21:51:38.5943431+01:00</LastSaveTime>
+  <LastSaveTime>2022-02-05T13:47:28.701515+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
