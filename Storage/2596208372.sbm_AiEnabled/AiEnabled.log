@@ -1,4 +1,6 @@
-[14:23:16.985] [T1] [DS=False] DEBUG | Log Started (v0.11b)
-[14:23:17.030] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20 members from Space Pirates
-[14:23:21.717] [T1] [DS=False] DEBUG | AiEnabled.Graphics.CommandMenu: Registered Successfully = True
-[16:16:45.990] [T1] [DS=False] DEBUG | AiSession: Unloading mod data. Registered = True
+[19:16:45.765] [T1] [DS=False] DEBUG | Log Started (v0.14b)
+[19:16:45.816] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20 members from Space Pirates
+[19:16:45.940] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[19:16:51.279] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[20:20:02.793] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[20:20:02.842] [T1] [DS=False] DEBUG | Mod unloaded successfully

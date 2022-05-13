@@ -134,6 +134,7 @@
     <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
+    <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Easy NPC Takeovers [Retired]">
@@ -176,7 +177,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(3.5)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(14)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -234,5 +235,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-02-13T16:16:43.2779373+01:00</LastSaveTime>
+  <LastSaveTime>2022-05-12T20:20:00.2929902+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
