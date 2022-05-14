@@ -177,7 +177,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(14)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(16)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -235,5 +235,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-05-12T20:20:00.2929902+02:00</LastSaveTime>
+  <LastSaveTime>2022-05-14T21:48:00.0206763+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
