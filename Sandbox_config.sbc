@@ -137,6 +137,11 @@
     <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
+      <Name>514062285.sbm</Name>
+      <PublishedFileId>514062285</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Easy NPC Takeovers [Retired]">
       <Name>1172408535.sbm</Name>
       <PublishedFileId>1172408535</PublishedFileId>
@@ -235,5 +240,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-05-22T12:22:47.4255072+02:00</LastSaveTime>
+  <LastSaveTime>2022-05-29T15:48:55.1728131+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
