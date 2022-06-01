@@ -14,7 +14,7 @@
     <MaxBackupSaves>11</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
-    <TotalPCU>100000</TotalPCU>
+    <TotalPCU>159500</TotalPCU>
     <PiratePCU>50000</PiratePCU>
     <MaxFactionsCount>100</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
@@ -192,11 +192,6 @@
       <PublishedFileId>1225107070</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Orks: The Great WAAAGH!">
-      <Name>1793333265.sbm</Name>
-      <PublishedFileId>1793333265</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Surface Occupation">
       <Name>1135484957.sbm</Name>
       <PublishedFileId>1135484957</PublishedFileId>
@@ -240,5 +235,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-06-01T19:49:14.770566+02:00</LastSaveTime>
+  <LastSaveTime>2022-06-01T22:24:51.0383709+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
