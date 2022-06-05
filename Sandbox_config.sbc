@@ -192,7 +192,7 @@
       <PublishedFileId>1225107070</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Surface Occupation">
+    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
       <Name>1135484957.sbm</Name>
       <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -235,5 +235,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-06-04T03:12:28.1236816+02:00</LastSaveTime>
+  <LastSaveTime>2022-06-06T00:01:02.8559939+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
