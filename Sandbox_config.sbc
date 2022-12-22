@@ -162,7 +162,7 @@
       <PublishedFileId>2336089504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="AiEnabled [Beta]">
+    <ModItem FriendlyName="AiEnabled v1.4">
       <Name>2596208372.sbm</Name>
       <PublishedFileId>2596208372</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -182,7 +182,7 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(19)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -235,5 +235,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System Salzmine</SessionName>
-  <LastSaveTime>2022-06-26T12:07:10.0655472+02:00</LastSaveTime>
+  <LastSaveTime>2022-12-22T16:37:20.6744412+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
